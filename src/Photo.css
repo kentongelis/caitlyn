@@ -1,0 +1,10 @@
+img {
+    width : 350px;
+    height : 450px;
+}
+
+.gallery {
+    display: grid;
+    grid-gap: 3em;
+    grid-template-columns: 1fr 1fr 1fr;
+}

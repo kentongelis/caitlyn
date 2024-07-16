@@ -1,0 +1,47 @@
+.Space {
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+.Space > img {
+    width: 100%;
+    height: 250px;
+}
+
+.Space .title {
+    text-decoration: none;
+    color: #000;
+    font-size: 35px;
+}
+
+.Space h1 {
+    display: block;
+            position: absolute;
+            left: 0;
+            top: 0;
+            margin: 0;
+            font-weight: lighter;
+            background-color: rgba(255, 255, 255, 0.75);
+            padding: 1rem;
+            text-align: left;
+}
+
+.Space .info {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        text-align: right;
+        font-size: 40px;
+    }
+
+.Space .info  {
+            display: inline-block;
+            padding: 0.25em 0.5em;
+            background-color: rgba(255, 255, 255, 0.9);
+            font-size: 40px;
+}
+
+.address {
+    font-size: 100px;
+}

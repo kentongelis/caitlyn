@@ -1,0 +1,142 @@
+[
+    {
+        "name" : "888 JAPANESE BBQ",
+        "address" : "3550 S Decatur Blvd, Las Vegas, NV 89103",
+        "image" : "maxresdefault.jpg"
+    },
+    {
+        "name" : "Gen Korean BBQ House",
+        "address" : "5125 W Sahara Ave, Las Vegas, NV 89146",
+        "image" : "Gen-LV.jpg"
+    },
+    {
+        "name" : "Omoide",
+        "address" : "7745 S Rainbow Blvd, Las Vegas, NV 89139",
+        "image" : "2024-01-02.jpg"
+    },
+    {
+        "name" : "Jenni Pho",
+        "address" : "7855 S Rainbow Blvd, Las Vegas, NV 89139",
+        "image" : "2020-11-11.jpg"
+    },
+    {
+        "name" : "Early Birds",
+        "address" : "5025 Blue Diamond Rd Suite 101 -102, Las Vegas, NV 89139",
+        "image" : "download.jpeg"
+    },
+    {
+        "name" : "Baby Stacks Cafe",
+        "address" : "8090 Blue Diamond Rd #170, Las Vegas, NV 89113",
+        "image" : "IMG_20221105_132108661_HDR.jpg"
+    },
+    {
+        "name" : "TAO Asian Bistro",
+        "address" : "3377 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "image" : "2023-09-12.jpg"
+    },
+    {
+        "name" : "Shake Shack",
+        "address" : "10945 Oval Park Dr, Las Vegas, NV 89135",
+        "image" : "2023-10-30.jpg"
+    },
+    {
+        "name" : "Mr. Shota",
+        "address" : "7435 S Durango Dr, Las Vegas, NV 89113",
+        "image" : "2022-11-12.jpg"
+    },
+    {
+        "name" : "Sushi Nekko",
+        "address" : "5115 W Spring Mountain Rd # 117, Las Vegas, NV 89146",
+        "image" : "2024-03-29.jpg"
+    },
+    {
+        "name" : "Gorilla Sushi",
+        "address" : " 1801 E Tropicana Ave #2, Las Vegas, NV 89119",
+        "image" : "IMG_2446.jpg"
+    },
+    {
+        "name" : "Maker's and Finders Coffee",
+        "address" : "2120 Festival Plaza Dr Unit 140, Las Vegas, NV 89135",
+        "image" : "2022-04-30.jpg"
+    },
+    {
+        "name" : "Cafe Rio",
+        "address" : "9595 S Eastern Ave #350, Las Vegas, NV 89123",
+        "image" : "2021-07-16.jpg"    
+    },
+    {
+        "name" : "The Cheesecake Factory",
+        "address" : "750 S Rampart Blvd STE 17, Las Vegas, NV 89145",
+        "image" : "IMG_3462.jpeg"
+    },
+    {
+        "name" : "Milpa",
+        "address" : "4226 S Durango Dr Ste 101, Las Vegas, NV 89147",
+        "image" : "2024-06-26.jpg"
+    },
+    {
+        "name" : "Street Tacos Al Vapor",
+        "address" : "6145 W Cactus Ave, Las Vegas, NV 89141",
+        "image" : "2023-06-27.jpg"
+    },
+    {
+        "name" : "Tacos El Gordo",
+        "address" : " 2560 W Sunset Rd, Las Vegas, NV 89119",
+        "image" : "2023-12-28.jpg"
+    },
+    {
+        "name" : "Summer House",
+        "address" : "6915 S Durango Dr, Las Vegas, NV 89113",
+        "image" : "2024-06-01.jpg"
+    },
+    {
+        "name" : "Din Tai Fung",
+        "address" : "ARIA Resort & Casino, 3730 S Las Vegas Blvd, Las Vegas, NV 89158",
+        "image" : "03.jpg"
+    },
+    {
+        "name" : "Miracle Mile Cafe",
+        "address" : "2130 4th St, San Rafael, CA 94901",
+        "image" : "PXL_20240623_192249231.jpg"
+    },
+    {
+        "name" : "Taqueria San Jose",
+        "address" : "615 4th St, San Rafael, CA 94901",
+        "image" : "2023-06-11.jpg"
+    },
+    {
+        "name" : "Shake Shack",
+        "address" : "1401 Larkspur Landing Cir, Larkspur, CA 94939",
+        "image" : "2024-06-30.jpg"
+    },
+    {
+        "name" : "Ace Wasabi San Fransisco",
+        "address" : "3339 Steiner St, San Francisco, CA 94123",
+        "image" : "2022-09-03.jpg"
+    },
+    {
+        "name" : "Pho 2000",
+        "address" : "637 Larkin St, San Francisco, CA 94109",
+        "image" : "PXL_20230509_010703591~2.jpg"
+    },
+    {
+        "name" : "K-Elements BBQ",
+        "address" : "2140 Clement St, San Francisco, CA 94121",
+        "image" : "2018-04-02.jpg"
+    },
+    {
+        "name" : "Eat This Cafe",
+        "address" : "6547 Santa Monica Blvd, Los Angeles, CA 90038",
+        "image" : "7304183288213066481.jpg"
+    },
+    {
+        "name" : "Amante Restaurant",
+        "address" : "123 E 9th St, Los Angeles, CA 90015",
+        "image" : "2024-05-20.jpg"
+    },
+    {
+        "name" : "All You Can Eat Sushi & BBQ",
+        "address" : "3914 Wilshire Blvd, Los Angeles, CA 90010",
+        "image" : "front.jpg"
+    }
+]

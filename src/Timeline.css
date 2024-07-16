@@ -1,0 +1,108 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+p {
+    width: 300px;
+    text-align: center;
+}
+
+.first {
+    display: flex;
+    flex-direction : row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.second  {
+    display: flex;
+    flex-direction : row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.third {
+    display: flex;
+    flex-direction : row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fourth  {
+    display: flex;
+    flex-direction : row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fifth {
+    display: flex;
+    flex-direction : row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sixth {
+    display: flex;
+    flex-direction : row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.seventh {
+    display: flex;
+    flex-direction : row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.eigth {
+    display: flex;
+    flex-direction : row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ninth {
+    display: flex;
+    flex-direction : row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tenth {
+    display: flex;
+    flex-direction : row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.eleven {
+    display: flex;
+    flex-direction : row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.twelve {
+    display: flex;
+    flex-direction : row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.thirteen {
+    display: flex;
+    flex-direction : row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fourteen {
+    display: flex;
+    flex-direction : row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
