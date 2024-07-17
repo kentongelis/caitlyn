@@ -138,5 +138,10 @@
         "name" : "All You Can Eat Sushi & BBQ",
         "address" : "3914 Wilshire Blvd, Los Angeles, CA 90010",
         "image" : "front.jpg"
+    },
+    {
+        "name" : "264 Fresco",
+        "address" : "264 Carlsbad Village Dr, Carlsbad, CA 92008",
+        "image" : " PXL_20220927_205330297.jpg"
     }
 ]

@@ -6,7 +6,7 @@ function Main() {
     const [password, setPassword] = useState('')
     const navigate = useNavigate()
     const checkPassword = () => {
-        if(password === 'booch') {
+        if(password === 'merp') {
             return (
                 <button type="submit" onClick={(e) => {
                     navigate('/home')
@@ -14,7 +14,7 @@ function Main() {
             )
         } else { 
             return (
-            <p>Hint = Skooch your ________</p>
+            <p>Hint = The first place we ever stargazed</p>
             )
         }
     }
