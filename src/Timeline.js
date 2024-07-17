@@ -12,7 +12,7 @@ function Timeline() {
             <div className="second">
                 <p>This is when we went to prom together Junior year. Wish I made a move on you this night</p>
                 <p>May 7th, 2022</p>
-                <img src={`${process.env.PUBLIC_URL}/images/IMG_2060.JPG`} width="300" height="300" alt="Hello" />
+                <img src={`${process.env.PUBLIC_URL}/images/IMG_2060.jpg`} width="300" height="300" alt="Hello" />
             </div>
             <div className="third">
                 <p>This is the first family party I went to after we started talking. This was also my favorite picture of your for awhile</p>
@@ -32,12 +32,12 @@ function Timeline() {
             <div className="sixth">
                 <p>This was when you visited me in San Fransisco. We had a great time together exploring the city.</p>
                 <p>September 8th, 2023</p>
-                <img src={`${process.env.PUBLIC_URL}/images/FullSizeRender.JPG`} width="300" height="300" alt="Hello" />
+                <img src={`${process.env.PUBLIC_URL}/images/FullSizeRender.jpg`} width="300" height="300" alt="Hello" />
             </div>
             <div className="seventh">
                 <p>This was when I visited you for halloween and we attended Mikayla's Party. We had the best costumes.</p>
                 <p>October 28th, 2023</p>
-                <img src={`${process.env.PUBLIC_URL}/images/IMG_2066.JPG`} width="300" height="300" alt="Hello" />
+                <img src={`${process.env.PUBLIC_URL}/images/IMG_2066.jpg`} width="300" height="300" alt="Hello" />
             </div>
             <div className="eigth">
                 <p>This was us at Thanksgiving where you attended one of my family parties for the first time.</p>
@@ -57,7 +57,7 @@ function Timeline() {
             <div className="eleven">
                 <p>This is where we went snowboarding for the first time ever together on your bday. Can't wait to go a million times more.</p>
                 <p>January 12th, 2024</p>
-                <img src={`${process.env.PUBLIC_URL}/images/IMG_0003.jpg`} alt="imag"></img>
+                <img src={`${process.env.PUBLIC_URL}/images/IMG_0003.JPG`} alt="imag"></img>
             </div>
             <div className="twelve">
                 <p>This is the second time you visited me in San Fransisco. We went to the museum and Ghiradelli's Square</p>
